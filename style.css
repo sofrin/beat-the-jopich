@@ -79,7 +79,7 @@ outline: 0;
 }
 .game-container{
     position: relative;
-    cursor: url("/assets/0.gif"), default;
+    cursor: url("assets/0.gif"), default;
 }
 .time,
 .score{
@@ -93,7 +93,7 @@ outline: 0;
     right: 20px;
 }
 .streamer{
-    cursor: url("/assets/3.gif"), default;
+    cursor: url("assets/3.gif"), default;
     display: flex;
     align-items: center;
     justify-content: center;
